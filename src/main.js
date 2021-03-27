@@ -3,7 +3,7 @@ let style = document.querySelector('#style')
 
 let n = 0
 let text =  `
-/* 你好，我叫吕宜虎
+/* 你好，我是小可爱
  * 接下来我来变个魔术
  * 首先我要准备个div
  **/
